@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>LLC Store</title>
+</head>
+<body style="text-align: center; font-family: sans-serif;">
+  <h1>Selamat Datang di LLC Store</h1>
+  <p>Klik tombol di bawah untuk menghubungi kami via WhatsApp:</p>
+  <a href="https://wa.me/6285242150160" target="_blank" style="padding: 10px 20px; background-color: green; color: white; text-decoration: none; border-radius: 5px;">
+    Chat di WhatsApp
+  </a>
+</body>
+</html>
